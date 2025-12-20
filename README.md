@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Goldside543!
 - 💻 My OS was Windows 11, then I switched to Arch Linux. On my servers, I use Debian, and on my own PC, I use EndeavourOS.
 - 🛠️ I'm currently working on Goldspace, my website, and various other top secret projects.
-- 🛜 I also have a website, http://goldside543-23984.portmap.host:54392! I formerly had one named Goldworld, but Bravesites took it down when they removed their free tier, iirc.
+- 🛜 I also have a website, http://goldside543-54392.portmap.host:54392! I formerly had one named Goldworld, but Bravesites took it down when they removed their free tier, iirc.
 
 # Me Key:
 
